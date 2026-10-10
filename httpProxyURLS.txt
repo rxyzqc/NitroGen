@@ -21,3 +21,4 @@ https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt
 https://raw.githubusercontent.com/sunny9577/proxy-scraper/master/proxies.txt
 https://raw.githubusercontent.com/opsxcq/proxy-list/master/list.txt
 https://raw.githubusercontent.com/proxy4parsing/proxy-list/main/http.txt
+https://rcloak.com/api/proxies/raw?protocol=http
